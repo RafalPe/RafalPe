@@ -23,9 +23,6 @@
 <h4>Commersial sites created by me and my friend:</h2>
 https://www.euroforge.org/ 
 <br>
-<div style="
-    display: flex;
-    gap: 5px;">
 https://xomedia.pl/marketing-online/  
 <p>(only this one subpage)<p/>
-<div/>
+
