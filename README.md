@@ -20,6 +20,7 @@
 <br>
 <h3 align="left">
 📄 Know about my experiences</h3>
-<h4>Commersial sites created by me and my friend:</h2>https://www.euroforge.org/ 
+<h4>Commersial sites created by me and my friend:</h2>
+https://www.euroforge.org/ 
 <br>
-https://xomedia.pl/marketing-online/ (<p>only this one subpage<p/>)
+https://xomedia.pl/marketing-online/ <p>(only this one subpage)<p/>
