@@ -18,7 +18,7 @@
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/bd2bd127c104ba5c98bb12c70801b075aee1f040009089510f69554300e7ff41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/bd2bd127c104ba5c98bb12c70801b075aee1f040009089510f69554300e7ff41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" alt="git" data-canonical-src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width: 100%;"></a>
 <br></p>
 <br>
-<h3 align="left">
+<h2 align="left">
 📄 Know about my experiences</h3>
-<h2>Commersial Site created by me and my friend:</h2>https://www.euroforge.org/ 
-<h2>and this one subpage:</h2> https://xomedia.pl/marketing-online/
+<h3>Commersial Site created by me and my friend:</h2>https://www.euroforge.org/ 
+<h3>and this one subpage:</h2> https://xomedia.pl/marketing-online/
